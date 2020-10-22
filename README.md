@@ -10,16 +10,16 @@
 
 <p align="center">
   <a href="https://id.linkedin.com/in/naufalist">
-    <img align="center" height="30" src="https://raw.githubusercontent.com/naufalist/naufalist/main/assets/linkedin.png" alt="naufalist's linkedin"/>
+    <img align="center" height="50" src="https://raw.githubusercontent.com/naufalist/naufalist/main/assets/linkedin.svg" alt="naufalist's linkedin"/>
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/naufalist/">
-    <img align="center" height="30" src="https://raw.githubusercontent.com/naufalist/naufalist/main/assets/instagram.jpg" alt="naufalist's instagram"/>
+    <img align="center" height="50" src="https://raw.githubusercontent.com/naufalist/naufalist/main/assets/instagram.svg" alt="naufalist's instagram"/>
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/doctoroctopus/">
-    <img align="center" height="30" src="https://raw.githubusercontent.com/naufalist/naufalist/main/assets/facebook.png" alt="naufalist's facebook"/>
+    <img align="center" height="50" src="https://raw.githubusercontent.com/naufalist/naufalist/main/assets/facebook.svg" alt="naufalist's facebook"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/naufalist/">
-    <img align="center" height="30" src="https://raw.githubusercontent.com/naufalist/naufalist/main/assets/twitter.png" alt="naufalist's twitter"/>
+    <img align="center" height="50" src="https://raw.githubusercontent.com/naufalist/naufalist/main/assets/twitter.svg" alt="naufalist's twitter"/>
   </a>
 </p>
 
