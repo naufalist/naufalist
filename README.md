@@ -31,11 +31,11 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalist&show_icons=true&theme=dracula&count_private=true&hide=contribs,issues,prs" alt="naufalist's github stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalist&layout=compact&theme=dracula" alt="naufalist's top languages"/>
   </a>
   <br/><br/>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalist&layout=compact&theme=dracula" alt="naufalist's top languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalist&show_icons=true&theme=dracula&count_private=true&hide=contribs,issues,prs" alt="naufalist's github stats"/>
   </a>
 </p>
 
