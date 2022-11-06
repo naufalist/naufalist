@@ -1,12 +1,15 @@
-### 👋 Hi, I'm Naufalist
+### 👋 Hi, I'm Naufal
 
-- 👨‍🎓 I’m currently studying at IPB University
-- 🌱 I'm currently learning back end
+- 🌱 Currently learning back end
 - 🪁 Kite Fighter Enthusiast
-- 💬 Ask me about anything: [secreto](https://secreto.site/id/19758303)
-- 📫 Reach me on twitter: [@naufalist](https://twitter.com/naufalist)
+- 📫 Ask me about anything: [contact.naufalist@gmail.com](mailto:contact.naufalist@gmail.com)
+- 💬 Reach me on twitter: [@naufalist](https://twitter.com/naufalist)
 - 💰 Support me: [saweria](https://saweria.co/naufalist), [paypal](https://paypal.me/naufalist)
 - 🔗 [https://naufalist.com](https://naufalist.com)
+
+### 🙌 Socials
+<a href="https://github.com/naufalist?tab=followers"><img src="https://img.shields.io/github/followers/naufalist?style=social" /></a>
+<a href="http://twitter.com/naufalist"><img src="https://img.shields.io/twitter/follow/naufalist?style=social" /></a>
 
 <!--
 ### Hi there 👋
