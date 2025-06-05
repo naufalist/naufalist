@@ -4,7 +4,7 @@
 - 🪁 Kite Fighter Enthusiast
 - 📫 Ask me about anything: [contact.naufalist@gmail.com](mailto:contact.naufalist@gmail.com)
 - 💬 Reach me on twitter: [@naufalist](https://twitter.com/naufalist)
-- 💰 Support me: [saweria](https://saweria.co/naufalist), [paypal](https://paypal.me/naufalist)
+- 💰 Support me: [sociabuzz](https://sociabuzz.com/naufalist/tribe), [paypal](https://paypal.me/naufalist)
 - 🔗 [https://naufalist.com](https://naufalist.com)
 
 ### 🙌 Socials
